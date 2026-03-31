@@ -1,5 +1,9 @@
 # Dashboard de Datos con Autenticación Django
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Django](https://img.shields.io/badge/Django-5.0+-green.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 Un dashboard moderno y responsive que muestra gráficos de datos estáticos con sistema de autenticación personalizado usando Django y encriptación con `django.core.signing`.
 
 ![Login](static/screenshot2.png)
