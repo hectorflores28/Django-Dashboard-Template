@@ -5,7 +5,7 @@ Usando el sistema estándar de Django para encriptación de contraseñas
 """
 import os
 import django
-
+asd
 # Configurar Django
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'dashboard.settings')
 django.setup()
